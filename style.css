@@ -1,0 +1,46 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.nav-item:hover {
+	border-bottom: 1.2px groove white;
+
+}
+
+.modal-header h3 {
+	font-family: Exo;
+	font-weight: bold;
+}
+#textarea {
+	padding: 0px 50px;
+	margin: 10px 0px;
+}
+
+.form-control {
+	padding: 10px;
+}
+
+.form-group {
+	margin: 20px;
+
+}
+
+.btn {
+	padding: 10px;
+	margin: 10px;
+	width: 90%;
+}
+
+button, input, optgroup, select, textarea {
+    margin: -3px;
+ }
+
+.nav-item {
+	padding:10px;
+}
+
+.modal-body {
+	padding: 0rem;
+}
+
